@@ -5,7 +5,7 @@
 - 📚 Faço faculdade de Ciência da Computação
 - 📝 No momento estou estudando Python e Engenharia de dados 
 - 🤔 Tenho interesse em desenvolver sistemas para motocicletas integrando tecnologias como inteligência artificial e aprendizado de máquina
-- 💻🔐 Pretendo ainda seguimentar minha carreira dentro da área da segurança da informação
+- 💻🔐 Pretendo ainda seguimentar minha carreira dentro da área da segurança cibernética
 - 😄 Pronouns: Ele/Dele
  <div>
   <a href="https://github.com/Ismael-Aguiar">
