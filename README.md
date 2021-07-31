@@ -21,3 +21,6 @@
   <a href= "https://www.linkedin.com/in/ismael-aguiar-estudante"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target ="_ blank "> </a> 
   <a href= "https://www.facebook.com/paulo.roger.52438 "> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target = "_ blank"> </a>
 </div>
+
+
+![Snake animation](https://github.com/Ismael-Aguiar/Ismael-Aguiar/blob/output/github-contribution-grid-snake.svg)
