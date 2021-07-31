@@ -2,8 +2,9 @@
 
 - 🔭 Atualmente trabalho com mecânica Automobilística
 - 🌱 Tenho formação Técnica em administração
-- 🌱 Estudo Ciência da Computação e vários tipos de tecnologia
+- 🌱 Faço faculdade de Ciência da Computação e estudo vários tipos de tecnologia
 - 🤔 Pretendo desenvolver sistemas para motocicletas integrando tecnologias como inteligência artificial e aprendizado de máquina
+- 🤔 Pretendo ainda seguimentar minha carreira dentro da área da segurança da informação
 - 😄 Pronouns: Ele/Dele
  <div>
   <a href="https://github.com/Ismael-Aguiar">
