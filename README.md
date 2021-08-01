@@ -15,10 +15,11 @@
 </div>
 
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Rafa-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+  <img align = "center" alt = "Mael-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
   <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://github.com/Ismael-Aguiar/Ismael-Aguiar/blob/main/.github/workflows/2993682_brand_brands_linux_logo_logos_icon.svg ">
+  <img align = "center" alt = "markdown" height = "30" width = "40" src = "https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465 ">
 </div>
-
+<br>
 <div> 
   <a href= "https://www.instagram.com/ismael_aguiar.dev/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target ="_ blank "> </a> 
   <a href = "mailto:ismaelaguiar.adm@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
