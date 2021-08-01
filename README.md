@@ -1,4 +1,5 @@
-## Olá, eu sou o Ismael Aguiar
+## Olá, eu sou o Ismael Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=Ismael-Aguiar.Ismael-Aguiar)
+
 
 - 🔭 Atualmente trabalho com mecânica Automobilística
 - 🌱 Tenho formação Técnica em administração
