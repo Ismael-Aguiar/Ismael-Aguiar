@@ -1,11 +1,12 @@
 ## Olá, eu sou o Ismael Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=Ismael-Aguiar.Ismael-Aguiar)
 
 
-- 🔭 Atualmente trabalho com mecânica de Motocicletas
+- 🔭 Atualmente trabalho com mecânica de automóveis leves (carros)
+- 🔭 Meu último emprego foi com mecânica de motocicletas
 - 🌱 Tenho formação Técnica em administração
 - 📚 Faço faculdade de Ciência da Computação
-- 📝 No momento estou estudando Python e Engenharia de dados 
-- 🤔 Tenho interesse em desenvolver sistemas para motocicletas integrando tecnologias como inteligência artificial e aprendizado de máquina
+- 📝 No momento estou estudando de forma independente Python, Engenharia de dados e Segurança informação
+- 🤔 Acho fascinantes e pretendo desenvolver Hard Skills como IA e aprendizado de máquina, tenho interesse em desenvolver sistemas para veículos integrando tecnologias com essas Hard Skills
 - 💻🔐 Pretendo ainda seguimentar minha carreira dentro da área da segurança cibernética
 - 😄 Pronouns: Ele/Dele
  <div>
