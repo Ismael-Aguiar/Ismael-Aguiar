@@ -5,9 +5,9 @@
 - 🔭 Meu último emprego foi com mecânica de motocicletas
 - 🌱 Tenho formação Técnica em administração
 - 📚 Faço faculdade de Ciência da Computação
-- 📝 No momento estou estudando de forma independente Python, Engenharia de dados e Segurança informação
+- 📝 No momento estou estudando de forma independente Python, Engenharia de dados e Segurança da informação
 - 🤔 Acho fascinantes e pretendo desenvolver Hard Skills como IA e aprendizado de máquina, tenho interesse em desenvolver sistemas para veículos integrando tecnologias com essas Hard Skills
-- 💻🔐 Pretendo ainda seguimentar minha carreira dentro da área da segurança cibernética
+- 💻🔐 Pretendo ainda seguimentar minha carreira dentro da área da Segurança Cibernética
 - 😄 Pronouns: Ele/Dele
  <div>
   <a href="https://github.com/Ismael-Aguiar">
